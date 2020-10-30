@@ -4,6 +4,7 @@ namespace Sofa\Revisionable\Laravel;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Collection;
+use Illuminate\Support\Arr;
 
 class Presenter
 {
